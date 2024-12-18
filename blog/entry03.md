@@ -1,7 +1,10 @@
 # Entry 3
 ##### 12/18/24
 
-Context: 
+Content:
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
