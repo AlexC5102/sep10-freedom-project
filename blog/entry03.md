@@ -9,6 +9,8 @@ Content: During our time doing our freedom project we decided to move on from pa
 A cryptocurrency (a virtual currency) designed to act as money and a form of payment outside the control of any one person, group, or entity. A form of digital currency that uses blockchain technology to support transactions between users on a decentralized network
 You can buy a home with cryptocurrency using RealOpen's crypto-to-fiat service. The platform allows you to purchase any property—whether on-market or off-market—using Fincoin, Ethereum, USDC, and other marketable cryptocurrencies.
 
+# **EDP**
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
