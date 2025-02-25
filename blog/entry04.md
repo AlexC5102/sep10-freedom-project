@@ -1,7 +1,9 @@
-# Entry 4
+# Entry 4: Tool For Freedom Project
 ##### 2/24/25
 
-Text
+# Why I chose Aframe
+
+Context: 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
