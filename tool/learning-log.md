@@ -38,6 +38,14 @@ Start thinking about a small project to build in A-Frame, incorporating what Iâ€
 
 ### 3/17/25 - 3/24/25
 
+### Things I Tried and Progress Made
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 <!-- 
 * Links you used today (websites, videos, etc)
