@@ -16,6 +16,7 @@ Successfully integrated animations into my scene using the built-in A-Frame anim
 Explored using ambient light and directional light, realizing how it impacts the overall feel of my scene.
 </ul>
 
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
