@@ -35,6 +35,10 @@ Experiment with importing more complex 3D models from Blender into A-Frame and a
 Explore community-driven resources to discover plugins or components that can simplify adding interactivity like click events or transitions.
 Start thinking about a small project to build in A-Frame, incorporating what I’ve learned so far to solidify my skills.
 
+
+### 3/17/25 - 3/24/25
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
