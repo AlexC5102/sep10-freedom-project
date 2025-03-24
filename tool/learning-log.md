@@ -54,10 +54,11 @@ Encountered difficulties with loading complex 3D models that weren’t formatted
 Animation timings were tricky; I often found my animations not syncing well with user interactions.
 
 ### What I'm Going to Try Next
-Plan to dive deeper into creating more complex scenes, incorporating interactivity where users can click on objects to trigger animations or changes.
-Will explore integration with JavaScript to add more dynamic functionality, perhaps by reading more on the Aframe with React or Vue.js integration to enhance the interactive experience.
-Aim to experiment with VR capabilities in Aframe to create an immersive experience and learn how to test it effectively on different devices.
-
+<ul>
+<li>Plan to dive deeper into creating more complex scenes, incorporating interactivity where users can click on objects to trigger animations or changes.</li>
+<li>Will explore integration with JavaScript to add more dynamic functionality, perhaps by reading more on the Aframe with React or Vue.js integration to enhance the interactive experience.</li>
+<li>Aim to experiment with VR capabilities in Aframe to create an immersive experience and learn how to test it effectively on different devices.</li>
+</ul>
 ### Closing Thoughts
 Today was both challenging and rewarding as I took my first steps into the world of 3D web development with Aframe. I am eager to build on what I've learned and tackle new, more complex projects as I grow more comfortable with this tool.
 
