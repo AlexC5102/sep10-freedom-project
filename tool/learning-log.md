@@ -38,14 +38,28 @@ Start thinking about a small project to build in A-Frame, incorporating what Iâ€
 
 ### 3/17/25 - 3/24/25
 
-### Things I Tried and Progress Made
+### Things I Tried
+Explored the Aframe Official Documentation to understand the basics of creating 3D scene elements and entities.
+Followed a beginner tutorial on YouTube, which guided me step-by-step in setting up my first Aframe project. I managed to create a simple scene with a ground plane, a box, and a rotating camera.
+Experimented with different components, like lights and animations, to see how they affect the scene.
 
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+### Progress Made:
+Successfully created my first interactive 3D environment where users can view a box and a sphere.
+Learned how to integrate external 3D models using the a-entity component.
+Managed to apply simple animations to the objects, which added dynamic movement to my scene.
+
+### Challenges
+Initially, I struggled with understanding the HTML-like syntax used in Aframe. It was a bit confusing switching from traditional coding.
+Encountered difficulties with loading complex 3D models that werenâ€™t formatted correctly for Aframe, leading to multiple errors in my console.
+Animation timings were tricky; I often found my animations not syncing well with user interactions.
+
+### What I'm Going to Try Next
+Plan to dive deeper into creating more complex scenes, incorporating interactivity where users can click on objects to trigger animations or changes.
+Will explore integration with JavaScript to add more dynamic functionality, perhaps by reading more on the Aframe with React or Vue.js integration to enhance the interactive experience.
+Aim to experiment with VR capabilities in Aframe to create an immersive experience and learn how to test it effectively on different devices.
+
+### Closing Thoughts
+Today was both challenging and rewarding as I took my first steps into the world of 3D web development with Aframe. I am eager to build on what I've learned and tackle new, more complex projects as I grow more comfortable with this tool.
 
 <!-- 
 * Links you used today (websites, videos, etc)
