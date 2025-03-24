@@ -59,6 +59,7 @@ Animation timings were tricky; I often found my animations not syncing well with
 <li>Will explore integration with JavaScript to add more dynamic functionality, perhaps by reading more on the Aframe with React or Vue.js integration to enhance the interactive experience.</li>
 <li>Aim to experiment with VR capabilities in Aframe to create an immersive experience and learn how to test it effectively on different devices.</li>
 </ul>
+
 ### Closing Thoughts
 Today was both challenging and rewarding as I took my first steps into the world of 3D web development with Aframe. I am eager to build on what I've learned and tackle new, more complex projects as I grow more comfortable with this tool.
 
