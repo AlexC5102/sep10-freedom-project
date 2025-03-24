@@ -63,6 +63,9 @@ Animation timings were tricky; I often found my animations not syncing well with
 ### Closing Thoughts
 Today was both challenging and rewarding as I took my first steps into the world of 3D web development with Aframe. I am eager to build on what I've learned and tackle new, more complex projects as I grow more comfortable with this tool.
 
+### 3/24/25 - 3/31/25
+
+### Things I Tried
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
