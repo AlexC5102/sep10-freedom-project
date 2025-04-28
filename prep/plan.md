@@ -12,7 +12,7 @@
 
 
 ## Fonts
-* [Text](URL)
+* [Itim](https://fonts.google.com/specimen/Itim?preview.text=abcdefghijklmnopqrstuvwxyz&categoryFilters=Feeling:%2FExpressive%2FPlayful)
 
 ## Timeline
 
