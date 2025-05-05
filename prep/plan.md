@@ -15,7 +15,10 @@
 * [Itim] <link href="https://fonts.google.com/specimen/Itim?preview.text=abcdefghijklmnopqrstuvwxyz&categoryFilters=Feeling:%2FExpressive%2FPlayful" rel="stylesheet">
 
 ## Timeline
-
+Day 1:Navbar, text
+Day 2: img, CSS
+Day 3: aframe 3d model
+Day 4: 
 
 #### MVP
 
