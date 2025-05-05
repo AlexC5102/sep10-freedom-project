@@ -16,9 +16,9 @@
 
 ## Timeline
 
+
 #### MVP
 
-* Making the caurosel fully functional with it automatically sliding through the photos
 * Making the navbar follow when you scroll down
 * Coloring the website with colors that goes well together including the text so its not just black
 
@@ -27,7 +27,7 @@
 #### Beyond MVP
 
 * Making the 3d model of one of my future innovations where it could be viewed 360 degrees
-*
+* Fully customizing the webpage with colors that goes together
 
 
 
