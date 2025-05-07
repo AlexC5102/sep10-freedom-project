@@ -32,6 +32,10 @@
     .navbar a:hover {
       background-color: #CEAB93;
     }
+    a-scene {
+  height: 300px;
+  width: 600px;
+    }
         </style>
         <title>Freedom Project</title>
         <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
@@ -50,8 +54,7 @@
 <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title"></h5>
-    <p class="card-text">
-      Technology has changed the way businesses work by making things faster, easier, and more connected. Tools like computers, apps, and websites help people communicate, share information, and manage money. Apps like Slack, PayPal, and Zoom are great examples—they let teams chat, send payments, and hold meetings online. In the future, new inventions like smart tables, AI chatbots, and language-translating devices could make business even more advanced and helpful.</p>
+    <p class="card-text">Technology has changed the way businesses work by making things faster, easier, and more connected. Tools like computers, apps, and websites help people communicate, share information, and manage money. Apps like Slack, PayPal, and Zoom are great examples—they let teams chat, send payments, and hold meetings online. In the future, new inventions like smart tables, AI chatbots, and language-translating devices could make business even more advanced and helpful.</p>
   </div>
 </div>
 <h2>Apps Businesses use</h2>
@@ -177,16 +180,15 @@
   <img src="../prep/img/fincoin.jpeg"class="card-img-top">
   <div class="card-body">
     <h5 class="card-title">Fin Coin</h5>
-    <p class="card-text">A cryptocurrency (a virtual currency) designed to act as money and a form of payment outside the control of any one person, group, or entity
-      a form of digital currency that uses blockchain technology to support transactions between users on a decentralized network
-      You can buy a home with cryptocurrency using RealOpen's crypto-to-fiat service. The platform allows you to purchase any property—whether on-market or off-market—using Fincoin, Ethereum, USDC, and other marketable cryptocurrencies
-
+    <p class="card-text">This AI will speak to customers and provide information and support 24/7 where if the customers get confused the AI will automatically find a solution to the problem.
+      a computer program that simulates human conversation through voice commands or text chats or both
+       an artificial intelligence (AI) feature that can be embedded and used through any major messaging application.
       </p>
   </div>
 </div>
           <h2>3d model</h2>
-          <div id="myEmbeddedScene">
-            <a-scene embedded>
+            <div id="myEmbeddedScene">
+              <a-scene embedded background="color: #202020">
                 <a-entity id="cameraRig" position="0 1.6 0">
                   <a-entity id="camera" camera look-controls></a-entity>
                   <a-entity id="glasses" position="0 0 -0.3">
@@ -200,7 +202,7 @@
                 </a-entity>
                 <a-plane rotation="-90 0 0" width="10" height="10" color="#444"></a-plane>
               </a-scene>
-          </div>
+            </div>
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
