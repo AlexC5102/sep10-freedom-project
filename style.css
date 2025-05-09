@@ -12,6 +12,13 @@ a-scene {
 .microphone {
     max-height:50%
 }
-.centered-img {
+button {
+    background:#AD8B73
+}
+  .centered-img {
     display: block;
     margin: 0 auto;
+    width: 1560px;
+    height: 800px
+  }
+
