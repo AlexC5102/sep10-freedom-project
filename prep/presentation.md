@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* 
+* See how apps and smart tools can help your business grow it's easier than you think.
 
 ## Product
 * 
