@@ -13,8 +13,7 @@ a-scene {
     max-height:50%
 }
 button {
-    background:#AD8B73
-}
+background: linear-gradient(#e66465, #9198e5);}
   .centered-img {
     display: block;
     margin: 0 auto;
@@ -22,7 +21,7 @@ button {
     height: 800px
   }
 .card {
-    background:#7A533A;
+    background:#AD8B73
 }
 
 
